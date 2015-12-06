@@ -3,7 +3,7 @@
 return [
     "version" => "0.0-dev",
     "interface" => [
-        "title" => "Front",
-        "welcome" => "Welcome to the front",
+        "title" => "System manager",
+        "welcome" => "Welcome to the system manager",
     ]
 ];
