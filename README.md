@@ -1,5 +1,5 @@
 # RPG System Module
-[![Build Status](https://travis-ci.org/mikron-ia/rpg-hub-backend.svg?branch=master)](https://travis-ci.org/mikron-ia/rpg-hub-backend)
+[![Build Status](https://travis-ci.org/mikron-ia/rpg-hub-system.svg?branch=master)](https://travis-ci.org/mikron-ia/rpg-hub-system)
 [![Code Climate](https://codeclimate.com/github/mikron-ia/rpg-hub-system/badges/gpa.svg)](https://codeclimate.com/github/mikron-ia/rpg-hub-system)
 [![Test Coverage](https://codeclimate.com/github/mikron-ia/rpg-hub-system/badges/coverage.svg)](https://codeclimate.com/github/mikron-ia/rpg-hub-system/coverage)
 
