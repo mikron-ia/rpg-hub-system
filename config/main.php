@@ -7,7 +7,7 @@ return [
         "welcome" => "Welcome to the system manager",
     ],
     "databaseReference" => [
-    'mysql' => "MySql",
-    'mongodb' => "MongoDb",
-]
+        'mysql' => "MySql",
+        'mongodb' => "MongoDb",
+    ]
 ];
