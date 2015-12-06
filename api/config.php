@@ -1,6 +1,6 @@
 <?php
 
-use Mikron\rpg\Domain\Exception\MissingComponentException;
+use Mikron\RpgSystem\Domain\Exception\MissingComponentException;
 
 $configPath = __DIR__ . '/../config/';
 

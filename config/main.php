@@ -5,5 +5,9 @@ return [
     "interface" => [
         "title" => "System manager",
         "welcome" => "Welcome to the system manager",
-    ]
+    ],
+    "databaseReference" => [
+    'mysql' => "MySql",
+    'mongodb' => "MongoDb",
+]
 ];
