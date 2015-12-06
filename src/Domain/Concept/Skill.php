@@ -10,7 +10,7 @@ use Mikron\RpgSystem\Domain\Value\Name;
 
 /**
  * Class Skill - numeric representation of an ability
- * @package Mikron\HubBack\Domain\Concept
+ * @package Mikron\RpgSystem\Domain\Concept
  */
 class Skill implements Collectible, Displayable
 {

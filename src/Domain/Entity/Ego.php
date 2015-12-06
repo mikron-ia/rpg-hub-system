@@ -4,7 +4,7 @@ namespace Mikron\RpgSystem\Domain\Entity;
 
 /**
  * Class Ego - aggregator for personality, skills, and many other things residing in mind
- * @package Mikron\HubBack\Domain\Entity
+ * @package Mikron\RpgSystem\Domain\Entity
  */
 class Ego
 {

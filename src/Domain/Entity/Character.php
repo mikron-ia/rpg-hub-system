@@ -4,7 +4,7 @@ namespace Mikron\RpgSystem\Domain\Entity;
 
 /**
  * Class Character - abstract concepts that aggregates everything that makes a character
- * @package Mikron\HubBack\Domain\Entity
+ * @package Mikron\RpgSystem\Domain\Entity
  */
 class Character
 {

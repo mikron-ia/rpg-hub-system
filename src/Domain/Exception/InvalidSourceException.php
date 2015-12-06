@@ -4,7 +4,7 @@ namespace Mikron\RpgSystem\Domain\Exception;
 
 /**
  * Class InvalidSourceException
- * @package Mikron\HubBack\Domain\Exception
+ * @package Mikron\RpgSystem\Domain\Exception
  */
 class InvalidSourceException extends \Exception
 {

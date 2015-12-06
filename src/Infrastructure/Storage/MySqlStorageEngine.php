@@ -9,7 +9,7 @@ use Symfony\Component\Config\Definition\Exception\Exception;
 
 /**
  * Class MySqlStorage
- * @package Mikron\HubBack\Infrastructure\Storage
+ * @package Mikron\RpgSystem\Infrastructure\Storage
  */
 final class MySqlStorageEngine implements StorageEngine
 {

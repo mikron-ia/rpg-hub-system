@@ -9,7 +9,7 @@ use Mikron\RpgSystem\Domain\Value\Name;
 
 /**
  * Class SkillGroup - representation of a profession, skill aggregation or simple group
- * @package Mikron\HubBack\Domain\Concept
+ * @package Mikron\RpgSystem\Domain\Concept
  * @todo This class should be displayable
  */
 class SkillGroup implements Collectible

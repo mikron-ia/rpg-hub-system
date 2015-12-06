@@ -4,7 +4,7 @@ namespace Mikron\RpgSystem\Domain\Exception;
 
 /**
  * Class InvalidDataException
- * @package Mikron\HubFront\Domain\Exception
+ * @package Mikron\RpgSystem\Domain\Exception
  */
 class InvalidDataException extends \Exception
 {

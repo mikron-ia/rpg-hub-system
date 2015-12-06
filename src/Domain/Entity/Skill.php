@@ -6,7 +6,7 @@ use Mikron\RpgSystem\Domain\Concept;
 
 /**
  * Class Skill - representation of character's ability
- * @package Mikron\HubBack\Domain\Entity
+ * @package Mikron\RpgSystem\Domain\Entity
  */
 class Skill extends Concept\Skill
 {

@@ -4,7 +4,7 @@ namespace Mikron\RpgSystem\Domain\Exception;
 
 /**
  * Class RecordNotFoundException
- * @package Mikron\ReputationList\Domain\Exception
+ * @package Mikron\RpgSystem\Domain\Exception
  */
 class RecordNotFoundException extends \Exception
 {
